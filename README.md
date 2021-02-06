@@ -1,10 +1,7 @@
 ### Let's talk about Jignesh Mistry
-Experienced Software Developer with a demonstrated history of working in the computer software industry. Skilled in Node js, Express js, Socket programming, MongoDB, Mysql, Angular 2+, ES6, MVC, Json, SVN, Git.
+Experienced Software Engineer with a demonstrated history of working in the Computer Software industry. Skilled in Angular 6, Cascading Style Sheets (CSS), TypeScript, PHP, Javascript, MySQL and HTML. Experience of Version Control Systems (SVN & Github). Strong engineering professional with a Bachelor of Engineering - BE focused in Information Technology from Atharva College Of Engineering.
 
-💻 I’m currently working at Tantrasoft Solutions, which providing automation to Pharma industries over india.<Br>
-🌱 I’m currently learning Machine Learning.<Br>
 📫 How to reach me:
   
  Contact: 9819415910 
  
- Website : https://unitysoftsolutions.co.in/
